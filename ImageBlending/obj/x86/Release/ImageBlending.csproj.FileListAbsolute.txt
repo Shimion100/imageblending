@@ -1,0 +1,12 @@
+D:\code\vision\ImageBlending\ImageBlending\bin\Release\ImageBlending.exe
+D:\code\vision\ImageBlending\ImageBlending\bin\Release\ImageBlending.pdb
+D:\code\vision\ImageBlending\ImageBlending\bin\Release\netPossionLib.dll
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\ResolveAssemblyReference.cache
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\ImageBlending.FrmMain.resources
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\ImageBlending.frmSource.resources
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\ImageBlending.Properties.Resources.resources
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\GenerateResource.read.1.tlog
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\GenerateResource.write.1.tlog
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\ImageBlending.exe
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\ImageBlending.pdb
+D:\code\vision\ImageBlending\ImageBlending\obj\x86\Release\ImageBlending.frmDest.resources
